@@ -1,0 +1,7 @@
+12345         TOYOTA       CAMRY        2012     $24000         NEW
+10998           FORD      FUSION        2012     $24000         OLD
+11233          HONDA      ACCORD        2017     $30000         OLD
+16987           AUDI          R8        2017     $25000         NEW
+11236         NISSAN      ALTIMA        2017     $22000         OLD
+1X23A           FORD    EXPLORER        2018     $35000         NEW
+Q93PV          DODGE     CHARGER        2016     $15999         OLD
